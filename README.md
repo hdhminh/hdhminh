@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:14532d,100:1d4ed8&height=210&section=header&text=Huynh%20Minh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20engineering%2C%20automation%2C%20and%20production-minded%20software%20delivery&descAlignY=58&animation=fadeIn" alt="Huynh Minh banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:14532d,100:1d4ed8&height=210&section=header&text=Huynh%20Minh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20engineer%20focused%20on%20AI%2C%20automation%2C%20and%20usable%20systems&descAlignY=58&animation=fadeIn" alt="Huynh Minh banner" />
 
-<h3>Building practical software with AI, automation, and strong engineering discipline.</h3>
+<h3>I build useful software and make complex systems easier to operate.</h3>
 
 <p>
-  I work across AI systems, backend and frontend engineering, workflow automation, and product-oriented implementation.
+  Most of my work sits around AI products, automation, and the engineering needed to turn ideas into reliable tools.
 </p>
 
 <p>
@@ -29,10 +29,10 @@
 
 ## Focus
 
-- AI-enabled applications and production-facing software
-- backend and frontend systems with clear contracts and maintainable structure
-- workflow automation, integration tooling, and human-in-the-loop products
-- engineering work that balances product usability, reliability, and delivery speed
+- AI products and applied software systems
+- backend and frontend engineering for maintainable products
+- automation, integrations, and operator-facing tooling
+- practical delivery with attention to reliability and usability
 
 ## Working style
 
