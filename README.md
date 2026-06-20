@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:14532d,100:1d4ed8&height=210&section=header&text=Huynh%20Minh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Production-oriented%20AI%20systems%20and%20workflow%20automation&descAlignY=58&animation=fadeIn" alt="Huynh Minh banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:14532d,100:1d4ed8&height=210&section=header&text=Huynh%20Minh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20engineering%2C%20automation%2C%20and%20production-minded%20software%20delivery&descAlignY=58&animation=fadeIn" alt="Huynh Minh banner" />
 
-<h3>Building AI systems that have to work in real operations.</h3>
+<h3>Building practical software with AI, automation, and strong engineering discipline.</h3>
 
 <p>
-  I work on LLM agents, document workflows, browser automation, and operator-facing software.
+  I work across AI systems, backend and frontend engineering, workflow automation, and product-oriented implementation.
 </p>
 
 <p>
@@ -21,24 +21,24 @@
   <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Playwright-111827?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-111827?style=flat-square&logo=googleappsscript&logoColor=white" alt="Google Apps Script" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AI%20Systems-111827?style=flat-square&logoColor=white" alt="AI Systems" />
 </p>
 
 </div>
 
 ## Focus
 
-- LLM runtime orchestration and multi-agent workflows
-- browser automation and operator tooling
-- document processing and signing workflows
-- backend and frontend systems built for real usage, not isolated demos
+- AI-enabled applications and production-facing software
+- backend and frontend systems with clear contracts and maintainable structure
+- workflow automation, integration tooling, and human-in-the-loop products
+- engineering work that balances product usability, reliability, and delivery speed
 
 ## Working style
 
 - contribution backed by repository history
-- preference for explicit contracts, tests, and operational clarity
-- product-minded engineering over demo-first implementation
+- preference for explicit contracts, test coverage, and operational clarity
+- product-minded engineering with an emphasis on practical outcomes
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:14532d,100:0f766e&height=110&section=footer" alt="footer banner" />
