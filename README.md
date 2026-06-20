@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:14532d,100:1d4ed8&height=210&section=header&text=Huynh%20Minh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20engineer%20focused%20on%20AI%2C%20automation%2C%20and%20usable%20systems&descAlignY=58&animation=fadeIn" alt="Huynh Minh banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:14532d,100:1d4ed8&height=210&section=header&text=Huynh%20Minh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20focused%20on%20automation%2C%20usable%20systems%2C%20and%20product%20delivery&descAlignY=58&animation=fadeIn" alt="Huynh Minh banner" />
 
-<h3>I build useful software and make complex systems easier to operate.</h3>
+<h3>AI Engineer building useful software and making complex systems easier to operate.</h3>
 
 <p>
-  Most of my work sits around AI products, automation, and the engineering needed to turn ideas into reliable tools.
+  My work sits around AI products, automation, and the engineering needed to turn ideas into reliable tools.
 </p>
 
 <p>
